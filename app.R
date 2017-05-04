@@ -3,14 +3,6 @@
 #date: May 4, 2017
 
 library(shiny)
-library(expm)
-library(ggplot2)
-library(RColorBrewer)
-library(plotly)
-library(tibble)
-library(plyr)
-library(dplyr)
-library(tidyr)
 library(shinythemes)
 
 ui <- fluidPage(theme = shinytheme("cosmo"),
